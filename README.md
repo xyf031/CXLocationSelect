@@ -1,3 +1,3 @@
-# CeXingLocationSelect
+# CXLocationSelect
 
 By *XYF*
